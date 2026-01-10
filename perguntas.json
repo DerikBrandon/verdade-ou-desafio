@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "versao": "4.0",
+    "autor": "Voce"
+  },
+  "conteudo": {
+    "verdades": [
+      { "id": 1, "texto": "Qual foi a última coisa que você pesquisou no Google e teria vergonha de mostrar?", "nivel": "facil", "categoria": "engraçado" },
+      { "id": 2, "texto": "Quem desta roda você levaria para uma ilha deserta?", "nivel": "medio", "categoria": "social" },
+      { "id": 3, "texto": "Qual é o seu maior arrependimento amoroso?", "nivel": "dificil", "categoria": "pessoal" },
+      { "id": 4, "texto": "Se você pudesse apagar uma coisa do seu passado, o que seria?", "nivel": "dificil", "categoria": "profundo" },
+      { "id": 5, "texto": "Você já mentiu para sair de um compromisso? Qual foi a desculpa?", "nivel": "facil", "categoria": "cotidiano" },
+      { "id": 6, "texto": "Qual a pessoa mais estranha pela qual você já teve um 'crush'?", "nivel": "medio", "categoria": "romance" },
+      { "id": 7, "texto": "O que você faria se fosse invisível por um dia?", "nivel": "facil", "categoria": "imaginacao" },
+      { "id": 8, "texto": "Qual mania irritante você tem que ninguém suporta?", "nivel": "medio", "categoria": "autoconhecimento" },
+      { "id": 9, "texto": "Se você fosse preso, qual seria o motivo?", "nivel": "facil", "categoria": "engraçado" },
+      { "id": 10, "texto": "Você já stalkeou o perfil de um ex recentemente?", "nivel": "dificil", "categoria": "picante" }
+    ],
+    "desafios": [
+      { "id": 101, "texto": "Imite uma galinha botando um ovo por 20 segundos.", "nivel": "facil", "categoria": "atuacao" },
+      { "id": 102, "texto": "Ligue para um contato aleatório e cante 'Parabéns pra Você'.", "nivel": "dificil", "categoria": "coragem" },
+      { "id": 103, "texto": "Deixe a pessoa à sua direita fazer um penteado em você.", "nivel": "medio", "categoria": "fisico" },
+      { "id": 104, "texto": "Coma uma colher de mostarda ou pimenta pura.", "nivel": "dificil", "categoria": "resistencia" },
+      { "id": 105, "texto": "Fale com sotaque francês até a próxima rodada.", "nivel": "medio", "categoria": "atuacao" },
+      { "id": 106, "texto": "Poste a última foto da sua galeria nos Stories sem explicar nada.", "nivel": "dificil", "categoria": "rede_social" },
+      { "id": 107, "texto": "Faça 10 flexões agora.", "nivel": "facil", "categoria": "fisico" },
+      { "id": 108, "texto": "Dublar uma música escolhida pelo grupo.", "nivel": "medio", "categoria": "atuacao" },
+      { "id": 109, "texto": "Fique sem piscar competindo com alguém.", "nivel": "facil", "categoria": "competicao" },
+      { "id": 110, "texto": "Ande como modelo de passarela.", "nivel": "facil", "categoria": "atuacao" }
+    ]
+  }
+}
